@@ -5,6 +5,7 @@ body
 .top-stuff
 {
     display: flex;
+    flex-direction: column;
     background-color:white;
     align-items: center;
     justify-content: center;
@@ -12,7 +13,32 @@ body
     margin-right:-10px;
     margin-left:-10px;
     margin-top:-10px;
+    
+    
 }
+
+#nav-list
+{
+    display:flex;
+    
+    gap:4px;
+    background-color: orange;
+    margin-right:-10px;
+    margin-left:-10px;
+    margin-bottom:10px;
+    margin-top:-10px;
+    padding-top:10px;
+    padding-right:5px;
+    justify-content:right;
+    
+}
+
+#nav-list a
+{
+    text-decoration:none;
+}
+
+
 
 .stuff1 
 {
@@ -68,4 +94,3 @@ body
     margin-right:-10px;
     margin-left:-10px;
 }
-
