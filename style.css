@@ -17,10 +17,14 @@ body
     
 }
 
+.top-stuff p1
+{
+    background-color:rgb(189, 208, 212);
+}
+
 #nav-list
 {
     display:flex;
-    
     gap:4px;
     background-color: orange;
     margin-right:-10px;
