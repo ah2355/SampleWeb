@@ -57,8 +57,8 @@ body
 
 .stuff1 #sol
 {
-    padding-right:100px;
-    padding-left:100px;
+    padding-right:75px;
+    padding-left:75px;
     padding-bottom:5px;
     border-bottom: 2px solid rgb(255, 115, 0);
 }
@@ -78,7 +78,13 @@ body
     margin-right:-10px;
     margin-left:-10px;
 }
-
+.stuff2 #ind
+{
+    padding-right:50px;
+    padding-left:50px;
+    padding-bottom:5px;
+    border-bottom: 2px solid rgb(255, 115, 0);
+}
 .stuff3
 {
     display:flex;
@@ -89,6 +95,14 @@ body
     margin-bottom:10px;
     margin-right:-10px;
     margin-left:-10px;
+}
+
+.stuff3 #our
+{
+    padding-right:50px;
+    padding-left:50px;
+    padding-bottom:5px;
+    border-bottom: 2px solid rgb(255, 115, 0);
 }
 
 .stuff4
@@ -103,6 +117,14 @@ body
     margin-left:-10px;
 }
 
+.stuff4 #ab
+{
+    padding-right:50px;
+    padding-left:50px;
+    padding-bottom:5px;
+    border-bottom: 2px solid rgb(255, 115, 0);
+}
+
 .last-stuff
 {
     display:flex;
@@ -112,4 +134,12 @@ body
     justify-content:center;
     margin-right:-10px;
     margin-left:-10px;
+}
+
+.last-stuff #in
+{
+    padding-right:25px;
+    padding-left:25px;
+    padding-bottom:5px;
+    border-bottom: 2px solid rgb(255, 115, 0);
 }
