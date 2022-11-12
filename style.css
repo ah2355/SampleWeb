@@ -47,6 +47,7 @@ body
 .stuff1 
 {
     display:flex;
+    flex-direction: column;
     background-color:#b5abab;
     align-items:center;
     justify-content:center;
@@ -54,6 +55,11 @@ body
     /*Used for filling the box sides to the screen*/
     margin-right:-10px;
     margin-left:-10px;
+}
+
+.stuff1 h2
+{
+    background-color: rgb(153, 129, 129);
 }
 
 .stuff2
