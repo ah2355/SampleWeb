@@ -107,7 +107,7 @@ body
 .last-stuff
 {
     display:flex;
-    flex-driection:column;
+    flex-direction:column;
     background-color:#9c9da0;
     align-items:center;
     justify-content:center;
