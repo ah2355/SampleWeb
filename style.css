@@ -15,7 +15,7 @@ body
     margin-top:-10px; 
 }
 
-.top-stuff p1
+#tpp
 {
     background-color:rgb(189, 208, 212);
 }
@@ -53,6 +53,7 @@ body
     /*Used for filling the box sides to the screen*/
     margin-right:-10px;
     margin-left:-10px;
+    
 }
 
 .stuff1 #sol
@@ -63,10 +64,12 @@ body
     border-bottom: 2px solid rgb(255, 115, 0);
 }
 
-.stuff1 h2
+#stuff1p
 {
-    background-color:mediumaquamarine
+    
+    margin-top:-12.5px;
 }
+
 .stuff2
 {
     display:flex;
