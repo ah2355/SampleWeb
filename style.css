@@ -91,7 +91,8 @@ body
     display: flex;
     flex-direction:row;
     align-items:left;
-    gap:10px;
+    gap:250px;
+    flex-wrap:nowrap;
 }
 
 @media only screen and (max-width:683px)
